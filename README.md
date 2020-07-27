@@ -1,6 +1,13 @@
-#Pasta principal 
+##  A data structure is a particular way of organizing data in a computer so that it can be used effectively.
 
-1 - O começo do aprendizado em métodos de ordenação
-2 - O começo do aprendizado em árvores binárias
+ This repository contains detailed codes on different data structures (DS) with topic-wise problems, such as:
 
-#Códigos em Linguagem C
+- **Array**
+- **Binary Tree**
+- **Binary Search Tree**
+- **Heap**
+- **Hashing**
+- **Sorting algorithms**
+- **Linked List**
+- **Stack**
+- **Queue**
